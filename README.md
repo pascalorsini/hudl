@@ -19,8 +19,10 @@ In Microsoft Visual Studio Code, open a terminal and follow the steps below to e
     ```
     $ Open the "hudl" folder ("cd hudl") and run "npm install"
     ```
-3. Run the tests:
+3. Replace "replaceEmail" and "replacePassword" in "hudl/features/login.feature"
+
+4. Run the tests:
     ```
     $ Run "npx wdio run ./test/wdio.conf.ts"
-    ```
+    ```  
     
