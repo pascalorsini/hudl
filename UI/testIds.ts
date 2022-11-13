@@ -1,0 +1,10 @@
+export const LOGIN = "login";
+export const EMAIL_INPUT_LABEL = "email-input-label";
+export const PASSWORD_INPUT_LABEL = "password-input-label";
+export const EMAIL_INPUT = "email-input";
+export const PASSWORD_INPUT = "password-input";
+export const LOGIN_BUTTON = "login-btn";
+export const ERROR_DISPLAY = "error-display";
+export const REMEMBER_ME_CHECKBOX_LABEL = "remember-me-checkbox-label";
+export const NEED_HELP_LINK = "need-help-link";
+export const LOG_IN_WITH_ORGANIZATION_BUTTON = "log-in-with-organization-btn";

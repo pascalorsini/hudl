@@ -1,0 +1,1 @@
+export const FIFTEEN_SECONDS: number = 15000;
